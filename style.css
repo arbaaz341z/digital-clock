@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#conti{
+  border:2px solid black;
+  margin: 3rem;
+  
+  
+}
+
+.times{
+  height: 3.5rem;
+  
+}
